@@ -3,7 +3,7 @@ ${licenseFirst}
 </#if>
 ${licensePrefix}ID: william164
 ${licensePrefix}LANG: JAVA
-${licensePrefix}TASK: {class_name}
+${licensePrefix}TASK: ${name}
 <#if licenseLast??>
 ${licenseLast}
 </#if>
